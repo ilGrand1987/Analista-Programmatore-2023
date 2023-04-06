@@ -1,2 +1,4 @@
 Questo è il nome della tua collaboratrice! Ciao!
 Questo l'ha scritto Sara Depaoli.
+
+Grazie per la collaborazione! Questa nuova riga l'ho creta io (RIccardo)
