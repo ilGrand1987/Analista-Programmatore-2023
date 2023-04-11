@@ -2,3 +2,5 @@ Questo è il nome della tua collaboratrice! Ciao!
 Questo l'ha modificato Sara Depaoli.
 
 Grazie per la collaborazione! Questa nuova riga l'ho creta io (RIccardo)
+
+aggiungo una cartella
